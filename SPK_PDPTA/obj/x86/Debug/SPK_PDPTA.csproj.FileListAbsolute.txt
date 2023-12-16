@@ -1,0 +1,15 @@
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\obj\x86\Debug\SPK_PDPTA.csprojResolveAssemblyReference.cache
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\obj\x86\Debug\SPK_PDPTA.Forms.frmMenu.resources
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\obj\x86\Debug\SPK_PDPTA.Properties.Resources.resources
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\obj\x86\Debug\SPK_PDPTA.csproj.GenerateResource.Cache
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\bin\Debug\SPK_PDPTA.exe
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\bin\Debug\SPK_PDPTA.pdb
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\bin\Debug\MetroFramework.dll
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\obj\x86\Debug\SPK_PDPTA.Forms.frmDosen.resources
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\obj\x86\Debug\SPK_PDPTA.exe
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\obj\x86\Debug\SPK_PDPTA.pdb
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\obj\x86\Debug\SPK_PDPTA.Forms.frmMahasiswa.resources
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\bin\Debug\SPK_PDPTA.exe.config
+C:\Users\Sutosomo\Desktop\SPK_PDPTA\SPK_PDPTA\bin\Debug\MetroFramework.Design.dll
